@@ -41,4 +41,7 @@ In terminal
  
            "pyhton openCv.py"
 
-      
+### Versions:  
+     openCv 1.0
+     openCv 2.0
+     openCv 3.0
