@@ -23,9 +23,9 @@ install required package before run the code:
 
 1.pip install opencv-python
 
-2.pip install tk   //////// library like tkinter to create a simple GUI window with a button.
+2.pip install tk                ////////      library like tkinter to create a simple GUI window with a button.
 
-3.pip install Pillow ////// methods for opening, manipulating, and saving various image file formats.
+3.pip install Pillow               ////// methods for opening, manipulating, and saving various image file formats.
 
 4.pip install opencv-python-headless pillow  //// opencv-python-headless is a version of OpenCV without graphical user interface (headless). This is useful for situations where a 
 
