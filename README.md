@@ -35,11 +35,13 @@ graphical interface is not needed.
 
                                              
 
-## Run the code using this:
-
-In terminal 
+## Usage
+Run the script: 
  
-           "pyhton openCv.py"
+            "pyhton openCv.py"
+**.** The Tkinter window will appear with a "Capture" button.
+
+**.** Click the button to capture and save images.
 
 ### Versions:  
      openCv 1.0
